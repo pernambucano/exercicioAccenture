@@ -1,9 +1,9 @@
 # exercicioAccenture
 
 *Este projeto utilizará as seguintes tecnologias:
-** MySql
-** Hibernate
-** SpringMVC
+* MySql
+* Hibernate
+* SpringMVC
 * Maven
 * Eclipse NEON EE ou Spring Tool Suite [A decidir]
 * Tomcat 8.0
