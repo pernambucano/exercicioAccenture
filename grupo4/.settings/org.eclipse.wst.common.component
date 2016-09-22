@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="grupo4-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/br.com.grupo4.model"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/br.com.grupo4.dao"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/br.com.grupo4.controller"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/br.com.grupo4.service"/>
+        <property name="context-root" value="grupo4"/>
+        <property name="java-output-path" value="/grupo4/build/classes"/>
+    </wb-module>
+</project-modules>
